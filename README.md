@@ -96,7 +96,7 @@ This project demonstrates the power of computer vision and machine learning in a
 
 ## 📸 Sample Output
 
-![Sample](https://user-images.githubusercontent.com/your_placeholder_here.png)  
+![Sample]([https://user-images.githubusercontent.com/your_placeholder_here.png](https://github.com/vinaymore69/Face-Recognition-Atendence-System/blob/main/Screenshot%202025-04-15%20105037.png))  
 *(You can replace this with your own image)*
 
 ---
