@@ -1,8 +1,4 @@
-Here's a professional and complete `README.md` for your **Face Recognition Attendance System** GitHub repository:
 
----
-
-```markdown
 # 🧠 Face Recognition Attendance System
 
 A Python-based real-time face recognition system for automating attendance using webcam input. This project uses `OpenCV`, `dlib`, and the `face_recognition` library to detect, recognize, and mark attendance for known individuals. The project was created for learning and academic purposes.
