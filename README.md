@@ -109,8 +109,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙋‍♂️ Author
 
-**Vinay More**  
+**Vinay More & Shreya Panhale**  
 GitHub: [@vinaymore69](https://github.com/vinaymore69)
+GitHub: [@vinaymore69](https://github.com/shreya0512panhale)
+📧 [vinaymore0110@gmail.com](mailto:vinaymore0110@gmail.com)
+📧 [shreayashreddhapanhale@gmail.com](mailto:shreyashreddhapanhale@gmail.com)  
+  
 
 ---
 
