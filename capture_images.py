@@ -5,7 +5,7 @@ name = input("Enter name: ")
 save_dir = os.path.join("dataset", name)
 os.makedirs(save_dir, exist_ok=True)
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 count = 0
 
 while True:
